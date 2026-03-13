@@ -1,5 +1,4 @@
 # ZenithFix Core Dependencies
-openai
 pandas
 requests
 
