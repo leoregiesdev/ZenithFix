@@ -1,0 +1,9 @@
+# ZenithFix Core Dependencies
+openai
+pandas
+requests
+
+# Dev & Quality Assurance
+pytest
+black
+flake8
