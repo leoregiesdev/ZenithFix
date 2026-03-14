@@ -96,6 +96,18 @@ Every push or pull request is automatically audited to ensure code integrity.
 
 ---
 
+## ⭐ Contribua com o Projeto
+
+Este é um **projeto Open Source**, então sinta-se à vontade para:
+
+- Contribuir com melhorias
+- Reportar problemas
+- Sugerir novas funcionalidades
+- Deixar uma ⭐ no repositório
+
+🔗 **GitHub:**  
+https://github.com/leoregiesdev/ZenithFix
+
 Built for the next generation of engineers who ship fast, but ship safe.
 
 Developed by Leo Regies.
