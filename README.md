@@ -1,8 +1,12 @@
+# 🛡️ ZenithFix v1.0
+
 <p align="center">
   <img src="assets/zenithfix.png" alt="ZenithFix Banner" width="900">
 </p>
 
-# 🛡️ ZenithFix v1.0
+[![GitHub license](https://img.shields.io/github/license/leoregiesdev/ZenithFix)](https://github.com/leoregiesdev/ZenithFix/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/leoregiesdev/ZenithFix)](https://github.com/leoregiesdev/ZenithFix/stargazers)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 
 ### The AI-Debt Antidote: Stop burning tokens and shipping hallucinations.
 
