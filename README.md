@@ -48,19 +48,35 @@ Protects your software supply chain from malicious packages and typosquatting.
 
 ---
 
-# 📊 Quick Start
+## 📊 Quick Start
 
-## Installation
+### Installation
 
-git clone https://github.com/leoregiesdev/ZenithFix.git  
-cd ZenithFix  
-pip install -r requirements.txt  
+```bash
+git clone https://github.com/leoregiesdev/ZenithFix.git
+cd ZenithFix
+```
+
+Navigate to the root directory of the **ZenithFix** project and run:
+
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
-## Run an Audit
+### Run an Audit
 
-python src/zenithfix_cli.py ./your_project_path
+Run the auditor on a specific file
+
+```bash
+python src/zenithfix_cli.py tests/test_sample.py
+```
+Or run the auditor on an entire directory (e.g., the 'tests' directory)
+
+```bash
+python src/zenithfix_cli.py tests/
+```
 
 ---
 
@@ -68,7 +84,7 @@ python src/zenithfix_cli.py ./your_project_path
 
 You can see ZenithFix in action by running the provided demo script:
 
-bash demo.sh
+python src/zenithfix_cli.py tests/test_sample.py
 
 This script demonstrates edge cases such as:
 
